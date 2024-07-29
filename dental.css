@@ -1,0 +1,83 @@
+
+.container{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    margin-left: 10px;
+}
+h1{
+
+    text-align: center;
+    font-size: 50px;
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: <weight>;
+  color: rgb(169,169,169);
+  display: flex;
+  align-items: right;
+}
+.head{
+    display: inline;
+    margin-right:90px;
+    font-size:25px;
+}
+
+.linear-gradient {
+            width: 900px;
+            height: 150px;
+            background-image: linear-gradient(to right, rgb(72, 174, 174) 1% , rgb(252, 252, 252) 99%
+);
+ }
+ .h{ 
+     padding: 40px;
+     font-size: 50px;
+     color : grey;
+     font-family: "Bebas Neue", sans-serif;
+     font-weight: 300;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            line-height:1.5;
+            }
+            
+.all{
+    display:flex;
+            justify-content: space-between;
+           align-items: center;
+            
+}
+.box{
+    width: 300px;
+    height: 450px;
+    border-radius: 10px;
+            margin:5px;
+            
+}
+.one{
+    background-color: rgb(235,205,235);
+    width: 300px;
+        }
+.onee{
+    text-align: center;
+    font-size: 30px;
+}
+
+.two{
+     
+background-color: rgb(255, 209, 252);
+    width: 300px;
+}
+.twoo{
+    text-align: center;
+    font-size: 30px;
+}
+.three{
+    background-color: rgb(177,156,217);
+    width: 300px;
+}
+.threee{
+    text-align: center;
+    font-size: 30px;
+}
+
